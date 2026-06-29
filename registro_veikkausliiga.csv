@@ -1,0 +1,25 @@
+fecha,local,visita,HG,AG,pred_1x2,prob_fav,pred_o15,pred_o25,pred_btts,real_1x2,acierto_1x2,acierto_DC,tot_goles,real_o15,acierto_o15,real_o25,acierto_o25,real_btts,acierto_btts
+13/06,Inter Turku,AC Oulu,0,0,1,62,80,57,53,X,False,True,0,False,False,False,False,False,False
+13/06,Ilves,TPS,1,0,1,52,76,52,46,1,True,True,1,False,False,False,False,False,True
+13/06,Jaro,HJK,2,5,2,52,77,53,55,2,True,True,7,True,True,True,True,True,True
+13/06,VPS,KuPS,1,1,2,43,71,45,50,X,False,True,2,True,True,False,True,True,True
+13/06,Lahti,SJK,2,3,1,38,77,53,57,2,False,False,5,True,True,True,True,True,True
+13/06,Mariehamn,Gnistan,0,3,1,41,81,57,60,2,False,False,3,True,True,True,True,False,False
+17/06,HJK,Inter Turku,3,3,1,45,71,45,55,X,False,True,6,True,True,True,False,True,True
+17/06,Ilves,Jaro,5,0,1,68,90,74,59,1,True,True,5,True,True,True,True,False,False
+17/06,TPS,KuPS,1,2,2,38,61,34,36,2,True,True,3,True,True,True,False,True,False
+17/06,Gnistan,Lahti,1,0,1,51,87,69,68,1,True,True,1,False,False,False,False,False,False
+17/06,SJK,VPS,1,2,2,35,71,46,55,2,True,True,3,True,True,True,False,True,True
+18/06,AC Oulu,Mariehamn,2,1,1,76,77,54,38,1,True,True,3,True,True,True,True,True,False
+23/06,KuPS,Ilves,4,3,1,63,84,64,58,1,True,True,7,True,True,True,True,True,True
+23/06,VPS,AC Oulu,5,1,1,40,66,39,45,1,True,True,6,True,True,True,False,True,False
+23/06,Lahti,TPS,0,0,1,41,69,43,49,X,False,True,0,False,False,False,True,False,True
+23/06,Inter Turku,SJK,1,1,1,67,82,60,53,X,False,True,2,True,True,False,False,True,True
+23/06,Jaro,Gnistan,1,1,2,51,85,66,65,X,False,True,2,True,True,False,False,True,True
+23/06,Mariehamn,HJK,0,4,2,64,78,55,50,2,True,True,4,True,True,True,True,False,False
+27/06,Ilves,SJK,2,2,1,57,89,72,68,X,False,True,4,True,True,True,True,True,True
+27/06,HJK,KuPS,0,4,1,51,79,56,57,2,False,False,4,True,True,True,True,False,False
+27/06,Mariehamn,Inter Turku,0,2,2,63,72,46,43,2,True,True,2,True,True,False,True,False,True
+27/06,Gnistan,VPS,1,1,1,39,76,52,56,X,False,True,2,True,True,False,False,True,True
+27/06,TPS,Jaro,3,2,1,64,74,50,45,1,True,True,5,True,True,True,True,True,False
+27/06,AC Oulu,Lahti,1,1,1,52,74,49,51,X,False,True,2,True,True,False,True,True,True
